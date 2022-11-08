@@ -1,8 +1,7 @@
 ---
-redirect_from: "/"
+redirect_from: /
+published: true
 ---
+# Информационный сайт Дилижана
 
-This is a sample of main page. You can edit it to start your wiki.
-
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
-
+Всё, что можно, скопировано с [этого сайта](https://dilijan.notion.site/Dilijan-053647c621dc4feabc7ca767f1ef0924). Но там на тот момент не было поиска в мобильной версии сайта и вообще
