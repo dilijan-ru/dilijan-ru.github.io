@@ -65,3 +65,6 @@
 ## Чат поиска попутчиков по Армении
 
 [https://t.me/blablacararm](https://t.me/blablacararm)
+
+## Другие контакты водителей## 
+![taxi-contacts.jpg]({{site.baseurl}}/wiki/taxi-contacts.jpg)
