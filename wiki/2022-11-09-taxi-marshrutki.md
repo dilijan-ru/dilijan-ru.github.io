@@ -66,5 +66,5 @@
 
 [https://t.me/blablacararm](https://t.me/blablacararm)
 
-## Другие контакты водителей## 
+## Другие контакты водителей
 ![taxi-contacts.jpg]({{site.baseurl}}/wiki/taxi-contacts.jpg)
