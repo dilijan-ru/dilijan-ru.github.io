@@ -2,7 +2,7 @@
 
 Некоторые кафе и рестораны города. Список не исчерпывающий и не претендует на это – он здесь размещен с целью помочь новоприбывшим сориентироваться.
 
-### Доставка еды
+## Доставка еды
 
 <aside>
 💡 Привычных сервисов доставки еды  здесь (пока) нет, но многие рестораны доставляют сами. Звоните!
@@ -13,7 +13,9 @@
 
 ---
 
-## Kchuch
+## Кафе и рестораны
+
+### Kchuch
 
 Ресторан армянской кухни
 
@@ -29,7 +31,7 @@ Facebook: [https://www.facebook.com/KchuchDilijan](https://www.facebook.com/Kchu
 
 ---
 
-## ❌TAVA
+### ❌TAVA
 
 <aside>
 💡 Закрыт на ремонт - октябрь 2022
@@ -50,7 +52,7 @@ Instagram: [https://www.instagram.com/tavadilijan/](https://www.instagram.com/ta
 
 ---
 
-## Cafe #2
+### Cafe #2
 
 Адрес: [ул. Горького, д. 17/1](https://goo.gl/maps/yYGGW8V8N61h9U1s8) [📌](https://yandex.ru/maps/-/CCUZi6H3SA)
 
@@ -66,7 +68,7 @@ Instagram: [https://www.instagram.com/cafe_numbertwo/](https://www.instagram.com
 
 ---
 
-## Papanino House
+### Papanino House
 
 Restaurant of traditional Armenian dishes with new interpretations as well as some European dishes that are served with a large variety of local and European wines with reasonable prices.
 
@@ -84,7 +86,7 @@ Facebook: [https://www.facebook.com/papaninohouse/](https://www.facebook.com/pap
 
 ---
 
-## Flying Ostrich by Dolmama
+### Flying Ostrich by Dolmama
 
 The Flying Ostrich is the new tavern in Dilijan. We offer food, drinks, music, and an upstairs lounge in a cozy environment. Our food is inspired by our creator, Jirair Avanian, who is famous for his work at Dolmama in Yerevan. We have traditional Armenian food and barbecue, but with twists inspired from international cuisines. Come join us for a drink, or a meal, or a big event, or just come sit and listen to the piano. See you soon!
 
@@ -100,7 +102,7 @@ Facebook: [https://www.facebook.com/FlyingOstrichDolmama](https://www.facebook.c
 
 ---
 
-## Imtoon
+### Imtoon
 
 Адрес: [ул. Шаумяна, д. 1](https://goo.gl/maps/xHcb2RccKRNPCHSq5)
 
@@ -114,7 +116,7 @@ Facebook: [https://www.facebook.com/ImToonDilijan/](https://www.facebook.com/ImT
 
 ---
 
-## Toon Armeni
+### Toon Armeni
 
 Welcome to Toon Armeni, a little village located in the heart of Dilijan.
 
@@ -128,7 +130,7 @@ Facebook: [https://www.facebook.com/ToonArmeni](https://www.facebook.com/ToonArm
 
 ---
 
-## Dilijan Old Winery
+### Dilijan Old Winery
 
 Адрес: [ул. Мясникяна, д. 38](https://g.page/Old-Dilijan?share)
 
@@ -144,7 +146,7 @@ Instagram: [https://instagram.com/olddilijan](https://instagram.com/olddilijan?u
 
 ---
 
-## Carahunge
+### Carahunge
 
 Адрес: [ул. Калинина, д. 25](https://goo.gl/maps/L7WgPeLVq3cyEji48) (главный вход - ул. Гетапня, д. 25)
 
@@ -158,7 +160,7 @@ Instagram: [https://www.instagram.com/Carahunge_Dilijan/](https://www.instagram.
 
 ---
 
-## Sovats Vozni
+### Sovats Vozni
 
 Адрес: [ул. Мясникяна, д. 33](https://goo.gl/maps/gmHTfECpKmJTVoNf6)
 
@@ -170,7 +172,7 @@ Facebook: [https://www.facebook.com/sovatsvozni/](https://www.facebook.com/sovat
 
 ---
 
-## 🤔Mario Burger House
+### 🤔Mario Burger House
 
 <aside>
 💡 В Google Maps написано, что закрыто навсегда.
@@ -187,7 +189,7 @@ Facebook: [https://www.facebook.com/profile.php?id=100070809100986](https://www.
 
 ---
 
-## Gor Food Court
+### Gor Food Court
 
 > Ребята, мы снимаем дом у семьи, владеющей небольшим рестораном домашней кухни. Многие из чата тут уже побывали и, думаю, поддержат мою рекомендацию) Называется место Гор Фуд Корт, адрес ул. Калинина, 196. Сайта нет, есть только личный фейсбук хозяйки, куда она практически каждый день выкладывает фотки вкусной еды) Есть доставка по городу (бесплатная при заказе от 3т. драм).
 > 
@@ -202,7 +204,7 @@ Facebook: [https://www.facebook.com/zara.poxosyan.58](https://www.facebook.com/z
 
 ---
 
-## Ker u Sus
+### Ker u Sus
 
 Семейный ресторан
 
@@ -216,7 +218,7 @@ Instagram: [https://www.instagram.com/kerusus_dilijan/](https://www.instagram.co
 
 ---
 
-## Haikanoush
+### Haikanoush
 
 Ресторан Айкануш расположен на старинной улице Шарамбеян и является частью комплекса Старый Дилижан. Этот двухэтажный ресторан Туфенкян способен вместить до 80 гостей. Из зала ресторана открывается шикарный вид на пышную и поистине прекрасную природу Дилижана.
 
@@ -228,7 +230,7 @@ Instagram: [https://www.instagram.com/kerusus_dilijan/](https://www.instagram.co
 
 ---
 
-## Cafe Coco Natali
+### Cafe Coco Natali
 
 Адрес: [ул. Мясникяна, д. 36](https://goo.gl/maps/5hYJnGAMe2hnVaqz8)
 
@@ -238,7 +240,7 @@ Instagram: [https://www.instagram.com/kerusus_dilijan/](https://www.instagram.co
 
 ---
 
-## Arm Food Lab
+### Arm Food Lab
 
 Небольшое пространство, где заваривают вкусный кофе в воронке и продают свежеиспеченный хлеб от [Ootelie](https://www.facebook.com/ooteliebakery). Кофе – от местных обжарщиков [Caffeine](https://caffeine.am/).
 
@@ -250,7 +252,7 @@ Instagram: [https://www.instagram.com/kerusus_dilijan/](https://www.instagram.co
 
 ---
 
-## Pakhlava
+### Pakhlava
 
 Адрес: [ул. Мясникяна, д. 33](https://goo.gl/maps/XobpH5qEBwJkhKdaA)
 
@@ -258,7 +260,7 @@ Instagram: [https://www.instagram.com/kerusus_dilijan/](https://www.instagram.co
 
 ---
 
-## Дом путешественника
+### Дом путешественника
 
 Адрес: [ул. Максима Горького, д. 46](https://goo.gl/maps/prTwEgCwm34TBj9fA)
 
@@ -272,7 +274,7 @@ Telegram: [https://t.me/domdilijan](https://t.me/domdilijan)
 
 ---
 
-## Little Dili
+### Little Dili
 
 Адрес: [ул. Максима Горького, д. 48/5](https://goo.gl/maps/PvC8HU6BNB7xa9EX6)
 
@@ -280,7 +282,7 @@ Telegram: [https://t.me/domdilijan](https://t.me/domdilijan)
 
 ---
 
-## Darchin Pastry & Cafe
+### Darchin Pastry & Cafe
 
 Адрес: [ул. Калинина, д. 202](https://goo.gl/maps/XNded7ReMTpiWiqo9)
 
@@ -290,7 +292,7 @@ Telegram: [https://t.me/domdilijan](https://t.me/domdilijan)
 
 ---
 
-## Бургерная Gorburger
+### Бургерная Gorburger
 
 Доставка бургеров и шаурмы/шавермы, в том числе их вегетарианских вариантов
 
