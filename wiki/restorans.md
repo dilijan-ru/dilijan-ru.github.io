@@ -60,6 +60,8 @@ Instagram: [https://www.instagram.com/tavadilijan/](https://www.instagram.com/ta
 
 ### Cafe #2
 
+Прямо на озере
+
 Адрес: [ул. Горького, д. 17/1](https://goo.gl/maps/yYGGW8V8N61h9U1s8) [📌](https://yandex.ru/maps/-/CCUZi6H3SA)
 
 Время работы: ежедневно, с 9 до 22
