@@ -1,5 +1,6 @@
 ---
-published: True
+published: true
+title: Магазины Дилижана
 ---
 
 # Магазины
