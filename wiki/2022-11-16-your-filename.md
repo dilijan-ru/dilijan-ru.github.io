@@ -68,3 +68,5 @@ Instagram: [https://www.instagram.com/dilijanmc/](https://www.instagram.com/dili
 > 
 
 ## Кооперация вакцинации
+
+[https://t.me/+c6mQf6QxV2RkM2My](https://t.me/+c6mQf6QxV2RkM2My)
