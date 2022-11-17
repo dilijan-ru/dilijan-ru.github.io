@@ -55,7 +55,7 @@ Instagram: [https://www.instagram.com/dilijanmc/](https://www.instagram.com/dili
 
 Пробовали искать нужное лекарство и не получилось? Здесь можно по названию или действующему веществу проверить, зарегестрировано ли лекарство в Армении: [сайт pharm.cals.am](http://pharm.cals.am/pharm/drug_images/index.php).
 
-Здесь очень удобно искать лекарства по аптекам Еревана: [сайт pharmacy.am](https://pharmacy.am/?inc=preparat&search=%D0%94%D0%95%D0%9F%D0%90%D0%9A%D0%98%D0%9D).
+Здесь очень удобно искать лекарства по аптекам Еревана: [сайт pharmacy.am](https://pharmacy.am/?inc=preparat&search=%D0%94%D0%95%D0%9F%D0%90%D0%9A%D0%98%D0%9D). Не получилось найти? Пишите в чат «Переезд в Дилижан»
 
 ## Медицинская справка для ВНЖ
 
