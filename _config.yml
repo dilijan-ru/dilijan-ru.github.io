@@ -121,4 +121,4 @@ plugins:
 #
 
 
-inc_after_content : "test.html"
+inc_after_content : "git-wiki/test.html"
