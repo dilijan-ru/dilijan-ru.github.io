@@ -122,4 +122,4 @@ plugins:
 
 
 inc_after_content : "git-wiki/comments.html"
-inc_after_footer : "git-wiki/metrika.html"
+inc_after_scripts : "git-wiki/metrika.html"
