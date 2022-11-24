@@ -26,6 +26,19 @@ Instagram: [https://www.instagram.com/dilijanmc/](https://www.instagram.com/dili
 [https://t.me/c/1600067810/71974](https://t.me/c/1600067810/71974)
 [https://t.me/c/1600067810/71984](https://t.me/c/1600067810/71984)
 
+## Ортодонт
+
+Доктор Артур Аветисян 077991747, работает В Ереване, но С 1 декабря 2022 откроет клинику и в Дилижане.
+
+"AXIOM" Limited Liability Company (LLC) в Ереване
+https://www.spyur.am/en/companies/axiom/45635
+
+Клиника Alpha Stom в Ереване
+https://yandex.com/maps/org/33222583956
+
+Переезд в Дилижан
+https://t.me/c/1781143438/30440
+
 ## Эндокринолог
 
 > Елена Е., [04.10.2022 1:13]
