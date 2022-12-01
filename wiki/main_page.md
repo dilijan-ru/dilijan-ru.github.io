@@ -35,6 +35,7 @@ published: true
 
 ## Неспортивные или не совсем спортивные клубы и чаты
 
+- [Бьюти-чат](https://t.me/+S-I8U15QjBM0NjFi) 💄💅 
 - [Группа автошколы](https://t.me/+XIli3bqvhjY1NzQy) 🚙
 - [Клуб музыкантов в Дилижане](https://t.me/+0bWbymvwIptiZDUy) 🎵
 - [DiliJAM Sessions](https://t.me/+DysF0nVCA9BlYzBi) 🎸
