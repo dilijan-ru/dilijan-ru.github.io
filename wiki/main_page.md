@@ -48,3 +48,7 @@ published: true
 - [Минералы в Армении](https://t.me/arm_minerals) - совместные путешествия за минералами в окрестных горах
 - [Изучение армянского языка в Дилижане](https://t.me/+ydhBUZi5aSViZjMy)
 - [English Beyond the Classroom In Dilijan](https://t.me/englishindilijan) - easy conversational English with actor, playwright, director and teacher (drama, literature, English, science) Jason Lasky
+
+## Начните с этих страниц сайта
+
+- [Рестораны и кафе](/restorans)
