@@ -18,8 +18,13 @@ published: true
 - [Дилижан. Развитие. Образование](https://t.me/+p7cIhmuj5S0yMWYy)
 - [Dilijan care](https://t.me/+q8SQNpnjrt5jNmQy) - чат актива заботы о городе, людях и животных
 - [Творческий центр «Маяк»](https://t.me/mayak_dilijan) - канал мероприятий от центра
-- [CB1+CB2 Settlement](https://t.me/+Ukr7MltcIAwwZmYy) - чат для живущих в ЦБ1 и ЦБ2
 - [Православные Дилижана](https://t.me/+8k8ZXJ6-Eno0YWFi)
+
+
+## Территориальные чаты
+
+- [CB1+CB2 Settlement](https://t.me/+Ukr7MltcIAwwZmYy) - чат для живущих в ЦБ1 и ЦБ2
+- [Нижний Дилижан (Папанино, ул Калинина, Гетапня)](https://t.me/valleydilijan)
 
 ## Любительские спортивные клубы и чаты
 
